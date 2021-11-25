@@ -1,0 +1,27 @@
+
+@media screen and (max-width:480px){
+
+
+      body {
+        background: url(xmas_d20.png);
+        width:50%;
+        height:100vh;
+       
+
+      }
+
+      h1 {
+        font-size: 40px;
+      }
+
+      #btn {
+        font-size: 20px;
+        position: absolute;
+        bottom: 350px;
+        left: 250px;
+        border: double 2px green;
+    background-color: green;
+    color: honeydew;
+      }
+
+  
