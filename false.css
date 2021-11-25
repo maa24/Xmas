@@ -1,0 +1,25 @@
+@media screen and (max-width:480px){
+
+
+  body {
+    background-color: rgba(41, 190, 183, 0.315);
+  }
+
+  h1 {
+    font-size: 40px;
+    color: rgb(25, 222, 236);
+  }
+}
+
+
+@media screen and (min-width:480px) {
+
+  body {
+    background-color: rgba(41, 190, 183, 0.315);
+
+}
+h1 {
+  font-size: 40px;
+  color: rgb(25, 222, 236);
+}
+}
