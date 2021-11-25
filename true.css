@@ -1,0 +1,44 @@
+@media screen and (max-width:480px){
+
+
+  body {
+    background: url(turi-.jpg);
+    
+   
+
+  }
+
+  h1 {
+    font-size: 50px;
+    font-family:cursive;
+    color: ivory;
+  }
+
+  p {
+    font-size: 20px;
+    color: rgba(178, 175, 194, 0.856);
+  }
+
+}
+
+
+@media screen and (min-width:480px) {
+
+  body {
+    background: url(タイトルなし.png);
+    background-size: cover;
+  }
+
+  
+  h1 {
+    font-size: 50px;
+    font-family:cursive;
+    color: ivory;
+  }
+
+  p {
+    font-size: 20px;
+    color: rgba(178, 175, 194, 0.856);
+  }
+  
+}
